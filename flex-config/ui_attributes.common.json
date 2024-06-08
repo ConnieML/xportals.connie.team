@@ -10,10 +10,10 @@
       "log_level": "info",
       "audit_log_ttl": 1209600,
       "teams": [
-        "Blue Team",
-        "Red Team",
-        "Gold Team",
-        "VIP Team"
+        "H2H",
+        "Daycare",
+        "Vollies",
+        "Intake"
       ],
       "departments": [
         "General Management",

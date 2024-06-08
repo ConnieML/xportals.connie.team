@@ -1,12 +1,30 @@
 [{
   "minimum": null,
   "multivalue": false,
-  "name": "template_example_support",
+  "name": "H2H Client",
   "maximum": null
 },
 {
   "minimum": null,
   "multivalue": false,
-  "name": "template_example_sales",
+  "name": "H2H Partner",
+  "maximum": null
+},
+{
+  "minimum": null,
+  "multivalue": false,
+  "name": "Daycare Las Vegas",
+  "maximum": null
+},
+{
+  "minimum": null,
+  "multivalue": false,
+  "name": "Daycare Henderson",
+  "maximum": null
+},
+{
+  "minimum": null,
+  "multivalue": false,
+  "name": "Intake",
   "maximum": null
 }]
