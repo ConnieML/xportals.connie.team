@@ -20,5 +20,9 @@ export default class FlexTSTemplatePlugin extends FlexPlugin {
    */
   init(flex: typeof Flex, manager: Flex.Manager) {
     initFeatures(flex, manager);
+    // manager.strings.TaskHeaderLine = 'TaskHeaderLine';
+    manager.strings.TaskHeaderLine = '{{task.attributes.skill}}';
+    manager.strings.TaskLineSmsReserved = 'TaskLineSmsReserved';
+    manager.strings.TaskLineCallReserved = 'TaskLineCallReserved';
   }
 }
